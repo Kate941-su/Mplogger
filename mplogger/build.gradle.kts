@@ -57,7 +57,7 @@ mavenPublishing {
         name = "Mplogger"
         description = "A mplogger for logging in Kotlin Multiplatfrom."
         inceptionYear = "2024"
-        url = "https://github.com/kotlin/multiplatform-library-template/"
+        url = "https://github.com/Kate941-su/mplogger"
         licenses {
             license {
                 name = "MIT License"
@@ -79,6 +79,7 @@ mavenPublishing {
         }
     }
 }
+
 
 //For testing
 //publishing {
