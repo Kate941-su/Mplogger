@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "mplogger"
-include(":library")
+include(":mplogger")
